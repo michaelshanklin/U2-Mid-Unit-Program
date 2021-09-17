@@ -18,10 +18,32 @@ Total Earnings: $1184.38
 
  */
 
+//1. find the hourly rate
+//2. calculate the numbers of hours worked
+//3. multiply hours worked by hourly rate
+//4. multiply the answer by x amount of days
+
 public class SalesCommission {
 
-    public static void main(String[] args) {
+   public static void main(String[] args) {
 
-    }
+   }
+      double hourlyRate = 14.50;
+      int hoursWorked = 6;
+      int commission = 5;
+      int totalPaycheck;
+      int sales;
 
-}
+   public double getHourlyRate() {
+
+      double hourlyRate * int numOfHours = int hoursWorked;
+
+      int hoursWorked * int numberOfDays = totalPaycheck;
+
+      int totalPaycheck + int commission = sales;
+
+      System.out.println("The amount of money you made is:");
+
+
+
+   }
